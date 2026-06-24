@@ -1,0 +1,22 @@
+/*
+@media screen and (min-width: 1024px) and (max-width: 1599px) {
+    body {
+        mso-page-scale: 70%;
+        zoom: 70%;
+        --moz-zoom: 70%;
+        --webkit-zoom: 70%;
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    body {
+        mso-page-scale: 75%;
+        zoom: 75%;
+        --moz-zoom: 75%;
+        --webkit-zoom: 75%;
+    }
+}
+*/
+.btn-primary{
+    background-color: #F63854;
+}

@@ -1,0 +1,14 @@
+{
+    "/css/public.css": "/css/public.css?id=d41d8cd98f00b204e9800998ecf8427e",
+    "/js/public.js": "/js/public.js?id=d41d8cd98f00b204e9800998ecf8427e",
+    "/css/dashboard.css": "/css/dashboard.css?id=01a743725f3a6d31f8f7cdf70af67370",
+    "/js/dashboard.js": "/js/dashboard.js?id=f5257dfde69bc0d71fdb13169e1bcc8c",
+    "/css/admin.css": "/css/admin.css?id=ae62464db455d63060a87031b0454503",
+    "/js/admin.js": "/js/admin.js?id=441fc0484cc09d71ddbf777b2d00c499",
+    "/js/app-config.js": "/js/app-config.js?id=fde8509474a381933332bba8295e7e88",
+    "/js/admin-charts.js": "/js/admin-charts.js?id=a1f16830c680e36eb385851687f9d82f",
+    "/js/admin-datatables.js": "/js/admin-datatables.js?id=93c1aa83fb0fdecc61bb7a0407a40adf",
+    "/js/admin-basic-forms.js": "/js/admin-basic-forms.js?id=e040aa2464913f1e4f2da4ac422b4f09",
+    "/js/admin-wysihtml.js": "/js/admin-wysihtml.js?id=b132bfe1a5da3f7ed1453c63ac25e50e",
+    "/js/photo-cropper.js": "/js/photo-cropper.js?id=8acf72b7ac7edcf3c708c5c4df7bef4b"
+}

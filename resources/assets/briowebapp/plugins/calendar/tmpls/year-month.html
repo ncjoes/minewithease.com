@@ -1,0 +1,12 @@
+<span class="pull-right" data-cal-date="<%= data_day %>" data-cal-view="month"><%= month_name %></span>
+<% if (events.length > 0) { %>
+<small class="cal-events-num badge badge-important pull-left"><%= events.length %></small>
+<div class="hide events-list" data-cal-end="<%= end %>" data-cal-start="<%= start %>">
+    <% _.each(events, function(event) { %>
+    <a class="pull-left event <%= event['class'] %> event<%= event.id %>" data-event-class="<%= event['class'] %>"
+       data-event-id="<%= event.id %>"
+       data-toggle="tooltip" href="<%= event.url ? event.url : 'javascript:void(0)' %>"
+       title="<%= event.title %>"></a>
+    <% }); %>
+</div>
+<% } %>

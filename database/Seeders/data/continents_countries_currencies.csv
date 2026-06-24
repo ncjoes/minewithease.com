@@ -1,0 +1,250 @@
+Continent,name                                  ,ISO3166-1-Alpha-2,ISO3166-1-Alpha-3,ISO4217-currency_alphabetic_code,ISO4217-currency_minor_unit,ISO4217-currency_name        ,ISO4217-currency_numeric_code
+AS       ,Afghanistan                           ,AF               ,AFG              ,AFN                             ,2                          ,Afghani                      ,971
+EU       ,Albania                               ,AL               ,ALB              ,ALL                             ,2                          ,Lek                          ,8
+AF       ,Algeria                               ,DZ               ,DZA              ,DZD                             ,2                          ,Algerian Dinar               ,12
+OC       ,American Samoa                        ,AS               ,ASM              ,USD                             ,2                          ,US Dollar                    ,840
+EU       ,Andorra                               ,AD               ,AND              ,EUR                             ,2                          ,Euro                         ,978
+AF       ,Angola                                ,AO               ,AGO              ,AOA                             ,2                          ,Kwanza                       ,973
+NA       ,Anguilla                              ,AI               ,AIA              ,XCD                             ,2                          ,East Caribbean Dollar        ,951
+AN       ,Antarctica                            ,AQ               ,ATA              ,                                ,                           ,                             ,
+NA       ,Antigua & Barbuda                     ,AG               ,ATG              ,XCD                             ,2                          ,East Caribbean Dollar        ,951
+SA       ,Argentina                             ,AR               ,ARG              ,ARS                             ,2                          ,Argentine Peso               ,32
+AS       ,Armenia                               ,AM               ,ARM              ,AMD                             ,2                          ,Armenian Dram                ,51
+NA       ,Aruba                                 ,AW               ,ABW              ,AWG                             ,2                          ,Aruban Florin                ,533
+OC       ,Australia                             ,AU               ,AUS              ,AUD                             ,2                          ,Australian Dollar            ,36
+EU       ,Austria                               ,AT               ,AUT              ,EUR                             ,2                          ,Euro                         ,978
+AS       ,Azerbaijan                            ,AZ               ,AZE              ,AZN                             ,2                          ,Azerbaijanian Manat          ,944
+NA       ,Bahamas                               ,BS               ,BHS              ,BSD                             ,2                          ,Bahamian Dollar              ,44
+AS       ,Bahrain                               ,BH               ,BHR              ,BHD                             ,3                          ,Bahraini Dinar               ,48
+AS       ,Bangladesh                            ,BD               ,BGD              ,BDT                             ,2                          ,Taka                         ,50
+NA       ,Barbados                              ,BB               ,BRB              ,BBD                             ,2                          ,Barbados Dollar              ,52
+EU       ,Belarus                               ,BY               ,BLR              ,BYR                             ,0                          ,Belarussian Ruble            ,974
+EU       ,Belgium                               ,BE               ,BEL              ,EUR                             ,2                          ,Euro                         ,978
+NA       ,Belize                                ,BZ               ,BLZ              ,BZD                             ,2                          ,Belize Dollar                ,84
+AF       ,Benin                                 ,BJ               ,BEN              ,XOF                             ,0                          ,CFA Franc BCEAO              ,952
+NA       ,Bermuda                               ,BM               ,BMU              ,BMD                             ,2                          ,Bermudian Dollar             ,60
+AS       ,Bhutan                                ,BT               ,BTN              ,INR                             ,2                          ,Indian Rupee                 ,356
+SA       ,Bolivia                               ,BO               ,BOL              ,BOB                             ,2                          ,Boliviano                    ,68
+EU       ,Bosnia                                ,BA               ,BIH              ,BAM                             ,2                          ,Convertible Mark             ,977
+AF       ,Botswana                              ,BW               ,BWA              ,BWP                             ,2                          ,Pula                         ,72
+AN       ,Bouvet Island                         ,BV               ,BVT              ,                                ,                           ,                             ,
+SA       ,Brazil                                ,BR               ,BRA              ,BRL                             ,2                          ,Brazilian Real               ,986
+AS       ,British Indian Ocean Territory        ,IO               ,IOT              ,                                ,                           ,                             ,
+NA       ,British Virgin Islands                ,VG               ,VGB              ,USD                             ,2                          ,US Dollar                    ,840
+AS       ,Brunei                                ,BN               ,BRN              ,BND                             ,2                          ,Brunei Dollar                ,96
+EU       ,Bulgaria                              ,BG               ,BGR              ,BGN                             ,2                          ,Bulgarian Lev                ,975
+AF       ,Burkina Faso                          ,BF               ,BFA              ,XOF                             ,0                          ,CFA Franc BCEAO              ,952
+AF       ,Burundi                               ,BI               ,BDI              ,BIF                             ,0                          ,Burundi Franc                ,108
+AS       ,Cambodia                              ,KH               ,KHM              ,KHR                             ,2                          ,Riel                         ,116
+AF       ,Cameroon                              ,CM               ,CMR              ,XAF                             ,0                          ,CFA Franc BEAC               ,950
+NA       ,Canada                                ,CA               ,CAN              ,CAD                             ,2                          ,Canadian Dollar              ,124
+AF       ,Cape Verde                            ,CV               ,CPV              ,CVE                             ,2                          ,Cabo Verde Escudo            ,132
+NA       ,Caribbean Netherlands                 ,BQ               ,BES              ,USD                             ,2                          ,US Dollar                    ,840
+NA       ,Cayman Islands                        ,KY               ,CYM              ,KYD                             ,2                          ,Cayman Islands Dollar        ,136
+AF       ,Central African Republic              ,CF               ,CAF              ,XAF                             ,0                          ,CFA Franc BEAC               ,950
+AF       ,Chad                                  ,TD               ,TCD              ,XAF                             ,0                          ,CFA Franc BEAC               ,950
+SA       ,Chile                                 ,CL               ,CHL              ,CLP                             ,0                          ,Chilean Peso                 ,152
+AS       ,China                                 ,CN               ,CHN              ,CNY                             ,2                          ,Yuan Renminbi                ,156
+AS       ,Christmas Island                      ,CX               ,CXR              ,                                ,                           ,                             ,
+AS       ,Cocos (Keeling) Islands               ,CC               ,CCK              ,                                ,                           ,                             ,
+SA       ,Colombia                              ,CO               ,COL              ,COP                             ,2                          ,Colombian Peso               ,170
+AF       ,Comoros                               ,KM               ,COM              ,KMF                             ,0                          ,Comoro Franc                 ,174
+AF       ,Congo - Brazzaville                   ,CG               ,COG              ,XAF                             ,0                          ,CFA Franc BEAC               ,950
+AF       ,Congo - Kinshasa                      ,CD               ,COD              ,                                ,                           ,                             ,
+OC       ,Cook Islands                          ,CK               ,COK              ,NZD                             ,2                          ,New Zealand Dollar           ,554
+NA       ,Costa Rica                            ,CR               ,CRI              ,CRC                             ,2                          ,Costa Rican Colon            ,188
+EU       ,Croatia                               ,HR               ,HRV              ,HRK                             ,2                          ,Croatian Kuna                ,191
+NA       ,Cuba                                  ,CU               ,CUB              ,CUP                             ,2                          ,Cuban Peso                   ,192
+NA       ,Curaçao                               ,CW               ,CUW              ,ANG                             ,2                          ,Netherlands Antillean Guilder,532
+EU       ,Cyprus                                ,CY               ,CYP              ,EUR                             ,2                          ,Euro                         ,978
+EU       ,Czech Republic                        ,CZ               ,CZE              ,                                ,                           ,                             ,
+AF       ,Côte d’Ivoire                         ,CI               ,CIV              ,XOF                             ,0                          ,CFA Franc BCEAO              ,952
+EU       ,Denmark                               ,DK               ,DNK              ,DKK                             ,2                          ,Danish Krone                 ,208
+AF       ,Djibouti                              ,DJ               ,DJI              ,DJF                             ,0                          ,Djibouti Franc               ,262
+NA       ,Dominica                              ,DM               ,DMA              ,XCD                             ,2                          ,East Caribbean Dollar        ,951
+NA       ,Dominican Republic                    ,DO               ,DOM              ,DOP                             ,2                          ,Dominican Peso               ,214
+SA       ,Ecuador                               ,EC               ,ECU              ,USD                             ,2                          ,US Dollar                    ,840
+AF       ,Egypt                                 ,EG               ,EGY              ,EGP                             ,2                          ,Egyptian Pound               ,818
+NA       ,El Salvador                           ,SV               ,SLV              ,USD                             ,2                          ,US Dollar                    ,840
+AF       ,Equatorial Guinea                     ,GQ               ,GNQ              ,XAF                             ,0                          ,CFA Franc BEAC               ,950
+AF       ,Eritrea                               ,ER               ,ERI              ,ERN                             ,2                          ,Nakfa                        ,232
+EU       ,Estonia                               ,EE               ,EST              ,EUR                             ,2                          ,Euro                         ,978
+AF       ,Ethiopia                              ,ET               ,ETH              ,ETB                             ,2                          ,Ethiopian Birr               ,230
+SA       ,Falkland Islands                      ,FK               ,FLK              ,FKP                             ,2                          ,Falkland Islands Pound       ,238
+EU       ,Faroe Islands                         ,FO               ,FRO              ,                                ,                           ,                             ,
+OC       ,Fiji                                  ,FJ               ,FJI              ,FJD                             ,2                          ,Fiji Dollar                  ,242
+EU       ,Finland                               ,FI               ,FIN              ,EUR                             ,2                          ,Euro                         ,978
+EU       ,France                                ,FR               ,FRA              ,EUR                             ,2                          ,Euro                         ,978
+SA       ,French Guiana                         ,GF               ,GUF              ,EUR                             ,2                          ,Euro                         ,978
+OC       ,French Polynesia                      ,PF               ,PYF              ,XPF                             ,0                          ,CFP Franc                    ,953
+AN       ,French Southern Territories           ,TF               ,ATF              ,                                ,                           ,                             ,
+AF       ,Gabon                                 ,GA               ,GAB              ,XAF                             ,0                          ,CFA Franc BEAC               ,950
+AF       ,Gambia                                ,GM               ,GMB              ,GMD                             ,2                          ,Dalasi                       ,270
+AS       ,Georgia                               ,GE               ,GEO              ,GEL                             ,2                          ,Lari                         ,981
+EU       ,Germany                               ,DE               ,DEU              ,EUR                             ,2                          ,Euro                         ,978
+AF       ,Ghana                                 ,GH               ,GHA              ,GHS                             ,2                          ,Ghana Cedi                   ,936
+EU       ,Gibraltar                             ,GI               ,GIB              ,GIP                             ,2                          ,Gibraltar Pound              ,292
+EU       ,Greece                                ,GR               ,GRC              ,EUR                             ,2                          ,Euro                         ,978
+NA       ,Greenland                             ,GL               ,GRL              ,DKK                             ,2                          ,Danish Krone                 ,208
+NA       ,Grenada                               ,GD               ,GRD              ,XCD                             ,2                          ,East Caribbean Dollar        ,951
+NA       ,Guadeloupe                            ,GP               ,GLP              ,EUR                             ,2                          ,Euro                         ,978
+OC       ,Guam                                  ,GU               ,GUM              ,USD                             ,2                          ,US Dollar                    ,840
+NA       ,Guatemala                             ,GT               ,GTM              ,GTQ                             ,2                          ,Quetzal                      ,320
+EU       ,Guernsey                              ,GG               ,GGY              ,GBP                             ,2                          ,Pound Sterling               ,826
+AF       ,Guinea                                ,GN               ,GIN              ,GNF                             ,0                          ,Guinea Franc                 ,324
+AF       ,Guinea-Bissau                         ,GW               ,GNB              ,XOF                             ,0                          ,CFA Franc BCEAO              ,952
+SA       ,Guyana                                ,GY               ,GUY              ,GYD                             ,2                          ,Guyana Dollar                ,328
+NA       ,Haiti                                 ,HT               ,HTI              ,USD                             ,2                          ,US Dollar                    ,840
+AN       ,Heard & McDonald Islands              ,HM               ,HMD              ,                                ,                           ,                             ,
+NA       ,Honduras                              ,HN               ,HND              ,HNL                             ,2                          ,Lempira                      ,340
+AS       ,Hong Kong                             ,HK               ,HKG              ,                                ,                           ,                             ,
+EU       ,Hungary                               ,HU               ,HUN              ,HUF                             ,2                          ,Forint                       ,348
+EU       ,Iceland                               ,IS               ,ISL              ,ISK                             ,0                          ,Iceland Krona                ,352
+AS       ,India                                 ,IN               ,IND              ,INR                             ,2                          ,Indian Rupee                 ,356
+AS       ,Indonesia                             ,ID               ,IDN              ,IDR                             ,2                          ,Rupiah                       ,360
+AS       ,Iran                                  ,IR               ,IRN              ,IRR                             ,2                          ,Iranian Rial                 ,364
+AS       ,Iraq                                  ,IQ               ,IRQ              ,IQD                             ,3                          ,Iraqi Dinar                  ,368
+EU       ,Ireland                               ,IE               ,IRL              ,EUR                             ,2                          ,Euro                         ,978
+EU       ,Isle of Man                           ,IM               ,IMN              ,GBP                             ,2                          ,Pound Sterling               ,826
+AS       ,Israel                                ,IL               ,ISR              ,ILS                             ,2                          ,New Israeli Sheqel           ,376
+EU       ,Italy                                 ,IT               ,ITA              ,EUR                             ,2                          ,Euro                         ,978
+NA       ,Jamaica                               ,JM               ,JAM              ,JMD                             ,2                          ,Jamaican Dollar              ,388
+AS       ,Japan                                 ,JP               ,JPN              ,JPY                             ,0                          ,Yen                          ,392
+EU       ,Jersey                                ,JE               ,JEY              ,GBP                             ,2                          ,Pound Sterling               ,826
+AS       ,Jordan                                ,JO               ,JOR              ,JOD                             ,3                          ,Jordanian Dinar              ,400
+AS       ,Kazakhstan                            ,KZ               ,KAZ              ,KZT                             ,2                          ,Tenge                        ,398
+AF       ,Kenya                                 ,KE               ,KEN              ,KES                             ,2                          ,Kenyan Shilling              ,404
+OC       ,Kiribati                              ,KI               ,KIR              ,AUD                             ,2                          ,Australian Dollar            ,36
+AS       ,Kuwait                                ,KW               ,KWT              ,KWD                             ,3                          ,Kuwaiti Dinar                ,414
+AS       ,Kyrgyzstan                            ,KG               ,KGZ              ,KGS                             ,2                          ,Som                          ,417
+AS       ,Laos                                  ,LA               ,LAO              ,LAK                             ,2                          ,Kip                          ,418
+EU       ,Latvia                                ,LV               ,LVA              ,EUR                             ,2                          ,Euro                         ,978
+AS       ,Lebanon                               ,LB               ,LBN              ,LBP                             ,2                          ,Lebanese Pound               ,422
+AF       ,Lesotho                               ,LS               ,LSO              ,ZAR                             ,2                          ,Rand                         ,710
+AF       ,Liberia                               ,LR               ,LBR              ,LRD                             ,2                          ,Liberian Dollar              ,430
+AF       ,Libya                                 ,LY               ,LBY              ,LYD                             ,3                          ,Libyan Dinar                 ,434
+EU       ,Liechtenstein                         ,LI               ,LIE              ,CHF                             ,2                          ,Swiss Franc                  ,756
+EU       ,Lithuania                             ,LT               ,LTU              ,EUR                             ,2                          ,Euro                         ,978
+EU       ,Luxembourg                            ,LU               ,LUX              ,EUR                             ,2                          ,Euro                         ,978
+AS       ,Macau                                 ,MO               ,MAC              ,MOP                             ,2                          ,Pataca                       ,446
+EU       ,Macedonia                             ,MK               ,MKD              ,MKD                             ,2                          ,Denar                        ,807
+AF       ,Madagascar                            ,MG               ,MDG              ,MGA                             ,2                          ,Malagasy Ariary              ,969
+AF       ,Malawi                                ,MW               ,MWI              ,MWK                             ,2                          ,Kwacha                       ,454
+AS       ,Malaysia                              ,MY               ,MYS              ,MYR                             ,2                          ,Malaysian Ringgit            ,458
+AS       ,Maldives                              ,MV               ,MDV              ,MVR                             ,2                          ,Rufiyaa                      ,462
+AF       ,Mali                                  ,ML               ,MLI              ,XOF                             ,0                          ,CFA Franc BCEAO              ,952
+EU       ,Malta                                 ,MT               ,MLT              ,EUR                             ,2                          ,Euro                         ,978
+OC       ,Marshall Islands                      ,MH               ,MHL              ,USD                             ,2                          ,US Dollar                    ,840
+NA       ,Martinique                            ,MQ               ,MTQ              ,EUR                             ,2                          ,Euro                         ,978
+AF       ,Mauritania                            ,MR               ,MRT              ,MRO                             ,2                          ,Ouguiya                      ,478
+AF       ,Mauritius                             ,MU               ,MUS              ,MUR                             ,2                          ,Mauritius Rupee              ,480
+AF       ,Mayotte                               ,YT               ,MYT              ,EUR                             ,2                          ,Euro                         ,978
+NA       ,Mexico                                ,MX               ,MEX              ,MXN                             ,2                          ,Mexican Peso                 ,484
+OC       ,Micronesia                            ,FM               ,FSM              ,USD                             ,2                          ,US Dollar                    ,840
+EU       ,Moldova                               ,MD               ,MDA              ,MDL                             ,2                          ,Moldovan Leu                 ,498
+EU       ,Monaco                                ,MC               ,MCO              ,EUR                             ,2                          ,Euro                         ,978
+AS       ,Mongolia                              ,MN               ,MNG              ,MNT                             ,2                          ,Tugrik                       ,496
+EU       ,Montenegro                            ,ME               ,MNE              ,EUR                             ,2                          ,Euro                         ,978
+NA       ,Montserrat                            ,MS               ,MSR              ,XCD                             ,2                          ,East Caribbean Dollar        ,951
+AF       ,Morocco                               ,MA               ,MAR              ,MAD                             ,2                          ,Moroccan Dirham              ,504
+AF       ,Mozambique                            ,MZ               ,MOZ              ,MZN                             ,2                          ,Mozambique Metical           ,943
+AS       ,Myanmar                               ,MM               ,MMR              ,MMK                             ,2                          ,Kyat                         ,104
+AF       ,Namibia                               ,NA               ,NAM              ,ZAR                             ,2                          ,Rand                         ,710
+OC       ,Nauru                                 ,NR               ,NRU              ,AUD                             ,2                          ,Australian Dollar            ,36
+AS       ,Nepal                                 ,NP               ,NPL              ,NPR                             ,2                          ,Nepalese Rupee               ,524
+EU       ,Netherlands                           ,NL               ,NLD              ,EUR                             ,2                          ,Euro                         ,978
+OC       ,New Caledonia                         ,NC               ,NCL              ,XPF                             ,0                          ,CFP Franc                    ,953
+OC       ,New Zealand                           ,NZ               ,NZL              ,NZD                             ,2                          ,New Zealand Dollar           ,554
+NA       ,Nicaragua                             ,NI               ,NIC              ,NIO                             ,2                          ,Cordoba Oro                  ,558
+AF       ,Niger                                 ,NE               ,NER              ,XOF                             ,0                          ,CFA Franc BCEAO              ,952
+AF       ,Nigeria                               ,NG               ,NGA              ,NGN                             ,2                          ,Naira                        ,566
+OC       ,Niue                                  ,NU               ,NIU              ,NZD                             ,2                          ,New Zealand Dollar           ,554
+OC       ,Norfolk Island                        ,NF               ,NFK              ,AUD                             ,2                          ,Australian Dollar            ,36
+AS       ,North Korea                           ,KP               ,PRK              ,KPW                             ,2                          ,North Korean Won             ,408
+OC       ,Northern Mariana Islands              ,MP               ,MNP              ,USD                             ,2                          ,US Dollar                    ,840
+EU       ,Norway                                ,NO               ,NOR              ,NOK                             ,2                          ,Norwegian Krone              ,578
+AS       ,Oman                                  ,OM               ,OMN              ,OMR                             ,3                          ,Rial Omani                   ,512
+AS       ,Pakistan                              ,PK               ,PAK              ,PKR                             ,2                          ,Pakistan Rupee               ,586
+OC       ,Palau                                 ,PW               ,PLW              ,USD                             ,2                          ,US Dollar                    ,840
+AS       ,Palestine                             ,PS               ,PSE              ,                                ,                           ,No universal currency        ,
+NA       ,Panama                                ,PA               ,PAN              ,USD                             ,2                          ,US Dollar                    ,840
+OC       ,Papua New Guinea                      ,PG               ,PNG              ,PGK                             ,2                          ,Kina                         ,598
+SA       ,Paraguay                              ,PY               ,PRY              ,PYG                             ,0                          ,Guarani                      ,600
+SA       ,Peru                                  ,PE               ,PER              ,PEN                             ,2                          ,Nuevo Sol                    ,604
+AS       ,Philippines                           ,PH               ,PHL              ,PHP                             ,2                          ,Philippine Peso              ,608
+OC       ,Pitcairn Islands                      ,PN               ,PCN              ,NZD                             ,2                          ,New Zealand Dollar           ,554
+EU       ,Poland                                ,PL               ,POL              ,PLN                             ,2                          ,Zloty                        ,985
+EU       ,Portugal                              ,PT               ,PRT              ,EUR                             ,2                          ,Euro                         ,978
+NA       ,Puerto Rico                           ,PR               ,PRI              ,USD                             ,2                          ,US Dollar                    ,840
+AS       ,Qatar                                 ,QA               ,QAT              ,QAR                             ,2                          ,Qatari Rial                  ,634
+EU       ,Romania                               ,RO               ,ROU              ,RON                             ,2                          ,New Romanian Leu             ,946
+EU       ,Russia                                ,RU               ,RUS              ,RUB                             ,2                          ,Russian Ruble                ,643
+AF       ,Rwanda                                ,RW               ,RWA              ,RWF                             ,0                          ,Rwanda Franc                 ,646
+AF       ,Réunion                               ,RE               ,REU              ,EUR                             ,2                          ,Euro                         ,978
+OC       ,Samoa                                 ,WS               ,WSM              ,WST                             ,2                          ,Tala                         ,882
+EU       ,San Marino                            ,SM               ,SMR              ,EUR                             ,2                          ,Euro                         ,978
+AS       ,Saudi Arabia                          ,SA               ,SAU              ,SAR                             ,2                          ,Saudi Riyal                  ,682
+AF       ,Senegal                               ,SN               ,SEN              ,XOF                             ,0                          ,CFA Franc BCEAO              ,952
+EU       ,Serbia                                ,RS               ,SRB              ,RSD                             ,2                          ,Serbian Dinar                ,941
+AF       ,Seychelles                            ,SC               ,SYC              ,SCR                             ,2                          ,Seychelles Rupee             ,690
+AF       ,Sierra Leone                          ,SL               ,SLE              ,SLL                             ,2                          ,Leone                        ,694
+AS       ,Singapore                             ,SG               ,SGP              ,SGD                             ,2                          ,Singapore Dollar             ,702
+NA       ,Sint Maarten                          ,SX               ,SXM              ,ANG                             ,2                          ,Netherlands Antillean Guilder,532
+EU       ,Slovakia                              ,SK               ,SVK              ,EUR                             ,2                          ,Euro                         ,978
+EU       ,Slovenia                              ,SI               ,SVN              ,EUR                             ,2                          ,Euro                         ,978
+OC       ,Solomon Islands                       ,SB               ,SLB              ,SBD                             ,2                          ,Solomon Islands Dollar       ,90
+AF       ,Somalia                               ,SO               ,SOM              ,SOS                             ,2                          ,Somali Shilling              ,706
+AF       ,South Africa                          ,ZA               ,ZAF              ,ZAR                             ,2                          ,Rand                         ,710
+AN       ,South Georgia & South Sandwich Islands,GS               ,SGS              ,                                ,                           ,                             ,
+AS       ,South Korea                           ,KR               ,KOR              ,KRW                             ,0                          ,Won                          ,410
+AF       ,South Sudan                           ,SS               ,SSD              ,SSP                             ,2                          ,South Sudanese Pound         ,728
+EU       ,Spain                                 ,ES               ,ESP              ,EUR                             ,2                          ,Euro                         ,978
+AS       ,Sri Lanka                             ,LK               ,LKA              ,LKR                             ,2                          ,Sri Lanka Rupee              ,144
+NA       ,St. Barthélemy                        ,BL               ,BLM              ,EUR                             ,2                          ,Euro                         ,978
+AF       ,St. Helena                            ,SH               ,SHN              ,SHP                             ,2                          ,Saint Helena Pound           ,654
+NA       ,St. Kitts & Nevis                     ,KN               ,KNA              ,XCD                             ,2                          ,East Caribbean Dollar        ,951
+NA       ,St. Lucia                             ,LC               ,LCA              ,XCD                             ,2                          ,East Caribbean Dollar        ,951
+NA       ,St. Martin                            ,MF               ,MAF              ,EUR                             ,2                          ,Euro                         ,978
+NA       ,St. Pierre & Miquelon                 ,PM               ,SPM              ,EUR                             ,2                          ,Euro                         ,978
+NA       ,St. Vincent & Grenadines              ,VC               ,VCT              ,XCD                             ,2                          ,East Caribbean Dollar        ,951
+AF       ,Sudan                                 ,SD               ,SDN              ,SDG                             ,2                          ,Sudanese Pound               ,938
+SA       ,Suriname                              ,SR               ,SUR              ,SRD                             ,2                          ,Surinam Dollar               ,968
+EU       ,Svalbard & Jan Mayen                  ,SJ               ,SJM              ,NOK                             ,2                          ,Norwegian Krone              ,578
+AF       ,Swaziland                             ,SZ               ,SWZ              ,SZL                             ,2                          ,Lilangeni                    ,748
+EU       ,Sweden                                ,SE               ,SWE              ,SEK                             ,2                          ,Swedish Krona                ,752
+EU       ,Switzerland                           ,CH               ,CHE              ,CHF                             ,2                          ,Swiss Franc                  ,756
+AS       ,Syria                                 ,SY               ,SYR              ,SYP                             ,2                          ,Syrian Pound                 ,760
+AF       ,São Tomé & Príncipe                   ,ST               ,STP              ,STD                             ,2                          ,Dobra                        ,678
+AS       ,Taiwan                                ,TW               ,TWN              ,                                ,                           ,                             ,
+AS       ,Tajikistan                            ,TJ               ,TJK              ,TJS                             ,2                          ,Somoni                       ,972
+AF       ,Tanzania                              ,TZ               ,TZA              ,TZS                             ,2                          ,Tanzanian Shilling           ,834
+AS       ,Thailand                              ,TH               ,THA              ,THB                             ,2                          ,Baht                         ,764
+OC       ,Timor-Leste                           ,TL               ,TLS              ,USD                             ,2                          ,US Dollar                    ,840
+AF       ,Togo                                  ,TG               ,TGO              ,XOF                             ,0                          ,CFA Franc BCEAO              ,952
+OC       ,Tokelau                               ,TK               ,TKL              ,NZD                             ,2                          ,New Zealand Dollar           ,554
+OC       ,Tonga                                 ,TO               ,TON              ,TOP                             ,2                          ,Pa’anga                      ,776
+NA       ,Trinidad & Tobago                     ,TT               ,TTO              ,TTD                             ,2                          ,Trinidad and Tobago Dollar   ,780
+AF       ,Tunisia                               ,TN               ,TUN              ,TND                             ,3                          ,Tunisian Dinar               ,788
+AS       ,Turkey                                ,TR               ,TUR              ,TRY                             ,2                          ,Turkish Lira                 ,949
+AS       ,Turkmenistan                          ,TM               ,TKM              ,TMT                             ,2                          ,Turkmenistan New Manat       ,934
+NA       ,Turks & Caicos Islands                ,TC               ,TCA              ,USD                             ,2                          ,US Dollar                    ,840
+OC       ,Tuvalu                                ,TV               ,TUV              ,AUD                             ,2                          ,Australian Dollar            ,36
+OC       ,U.S. Outlying Islands                 ,UM               ,UMI              ,                                ,                           ,                             ,
+NA       ,U.S. Virgin Islands                   ,VI               ,VIR              ,USD                             ,2                          ,US Dollar                    ,840
+EU       ,UK                                    ,GB               ,GBR              ,GBP                             ,2                          ,Pound Sterling               ,826
+NA       ,US                                    ,US               ,USA              ,USD                             ,2                          ,US Dollar                    ,840
+AF       ,Uganda                                ,UG               ,UGA              ,UGX                             ,0                          ,Uganda Shilling              ,800
+EU       ,Ukraine                               ,UA               ,UKR              ,UAH                             ,2                          ,Hryvnia                      ,980
+AS       ,United Arab Emirates                  ,AE               ,ARE              ,AED                             ,2                          ,UAE Dirham                   ,784
+SA       ,Uruguay                               ,UY               ,URY              ,UYU                             ,2                          ,Peso Uruguayo                ,858
+AS       ,Uzbekistan                            ,UZ               ,UZB              ,UZS                             ,2                          ,Uzbekistan Sum               ,860
+OC       ,Vanuatu                               ,VU               ,VUT              ,VUV                             ,0                          ,Vatu                         ,548
+EU       ,Vatican City                          ,VA               ,VAT              ,EUR                             ,2                          ,Euro                         ,978
+SA       ,Venezuela                             ,VE               ,VEN              ,VEF                             ,2                          ,Bolivar                      ,937
+AS       ,Vietnam                               ,VN               ,VNM              ,VND                             ,0                          ,Dong                         ,704
+OC       ,Wallis & Futuna                       ,WF               ,WLF              ,XPF                             ,0                          ,CFP Franc                    ,953
+AF       ,Western Sahara                        ,EH               ,ESH              ,MAD                             ,2                          ,Moroccan Dirham              ,504
+AS       ,Yemen                                 ,YE               ,YEM              ,YER                             ,2                          ,Yemeni Rial                  ,886
+AF       ,Zambia                                ,ZM               ,ZMB              ,ZMW                             ,2                          ,Zambian Kwacha               ,967
+AF       ,Zimbabwe                              ,ZW               ,ZWE              ,ZWL                             ,2                          ,Zimbabwe Dollar              ,932
+EU       ,Åland Islands                         ,AX               ,ALA              ,EUR                             ,2                          ,Euro                         ,978
